@@ -23,6 +23,7 @@ body {
 
 img {
   width: 100%;
+  display: block;
 }
 
 img:nth-child(1) {
